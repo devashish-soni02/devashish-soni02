@@ -20,8 +20,7 @@ Here are some of the technologies and tools I frequently use in my projects:
 Feel free to reach out to me through email or connect with me on social media:
 
 - Email: [devashishs@kaitensoftware.com](mailto:devashishs@kaitensoftware.com)
-- LinkedIn: [Your LinkedIn Profile](#)
-- Twitter: [@YourTwitterHandle](#)
+
 
 ## 🤝 Let's Collaborate
 
